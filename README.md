@@ -52,7 +52,7 @@ MongoDB has its own tools to basic data analysis in database:
 
 ![step_5](https://github.com/GabrielMotaBLima/DS001-scraping-to-analysis--Extra-Store/blob/main/images/step_7.2%20-%20MongoDB%20basic%20descriptive%20analysis.png)
 
-# :chart_with_upwards_trend: Step 6. c
+# :chart_with_upwards_trend: Step 6. Making a deeper descriptive analysis
 
 In a Jupyter Notebook some incredible things can be done. Python is a really flexible and versatile programming language. Using libraries/packages like Matplotlib, Pandas, Numpy, Seaborn a complete descriptive analysis is tangible.
 
