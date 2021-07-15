@@ -68,8 +68,14 @@ In a Jupyter Notebook some incredible things can be done. Python is a really fle
 
 ![step_7.2](https://github.com/GabrielMotaBLima/DS001-scraping-to-analysis--Extra-Store/blob/main/images/step_8.2%20-%20Exporting%20results%20to%20project%20folder.png)
 
-- Creating a simple presentation:
+All presentation was made in Power BI Desktop, an awesome tool to data visualization and presentation.
 
-![step_7.3](https://github.com/GabrielMotaBLima/DS001-scraping-to-analysis--Extra-Store/blob/main/images/step_9%20-%20joining%20products%20and%20review%20to%20presentation.png)
+- Iterative charts presentation in computer:
+
+![step_7.3](https://github.com/GabrielMotaBLima/DS001-scraping-to-analysis--Extra-Store/blob/main/images/step_9.1%20-%20joining%20products%20and%20review%20to%20presentation.png)
+
+- Iterative charts presentation in smartphone:
+
+![step_7.3](https://github.com/GabrielMotaBLima/DS001-scraping-to-analysis--Extra-Store/blob/main/images/step_9.2%20-%20joining%20products%20and%20review%20to%20presentation.png)
 
 # :rocket: The end.
