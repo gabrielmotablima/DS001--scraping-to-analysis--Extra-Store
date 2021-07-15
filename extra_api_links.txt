@@ -1,0 +1,14 @@
+# URL API Request to get the product offers data
+https://www.extra.com.br/api/catalogo-ssr/products/?Filtro=<<PRODUCT_FILTER>>&PaginaAtual=<<PAGE_FROM_ONE_TO_BEYOND>>
+
+# URL API Request to get costumer questions
+https://pdp-api.extra.com.br/api/v2/questions/source/EX?page=<<PAGE_FROM_ZERO_TO_BEYOND>>&productId=<<PRODUCT_ID>>
+
+# URL API Request to get costumer reviews
+https://pdp-api.extra.com.br/api/v2/reviews/product/<<PRODUCT_ID>>/source/EX?page=<<PAGE_FROM_ZERO_TO_BEYOND>>
+
+# URL API Request to get product payment method and price
+https://pdp-api.extra.com.br/api/v2/sku/<<PRODUCT_SKU>>/price/source/EX
+
+# URL API Request to get sellers and product "withdraw at store available"
+https://pdp-api.extra.com.br/api/v2/withdraw/availability/source/EX?SkuId=<<PRODUCT_SKU>>
