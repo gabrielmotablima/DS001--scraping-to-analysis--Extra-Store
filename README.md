@@ -2,6 +2,10 @@
 
 The present project is a basic process pipeline of extrating, transforming, loading, analysing and presenting. All of that was made by using suitable tools of web scraping, data analysis/presentation and databases.
 
+![cover](images/cover.png)
+
+---
+
 ### Objectives:
 - Create a crawler able to scrape offers and reviews from Extra web store, more specifically, offers and reviews about coolers, televisions and printers;
 - Save the data in a database in an automated way;
